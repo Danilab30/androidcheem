@@ -2,4 +2,6 @@
     <string name="app_name">Cheems</string>
     <string name="text_restart">Restart</string>
     <string name="text_game_over">Game Over, Try again</string>
+    <string name="text_win">You win!</string>
+    <string name="text_flip">Flip</string>
 </resources>
